@@ -151,5 +151,5 @@ class IPBlacklist
 
 }
 
-// Create a new instance of the IP_Whitelist class to handle IP blacklisting
+// Create a new instance of the IPBlacklist class to handle IP blacklisting
 $new_blacklist = new IPBlacklist();

@@ -12,7 +12,7 @@
 - Activate the plugin from the WordPress Dashboard > Plugins menu
 
 ## Usage
-- Go to the IP Blacklist menu in the WordPress Dashboard
+- Go to the Blacklist menu in the WordPress Dashboard
 - Add the IP addresses you want to block
 - Save the changes
 
