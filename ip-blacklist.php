@@ -33,8 +33,8 @@ class IPBlacklist
     public function add_plugin_menu_item(): void
     {
         add_menu_page(
-            'IP Blacklist',
-            'IP Blacklist',
+            'Blacklist',
+            'Blacklist',
             'manage_options',
             'ip-blacklist',
             array($this, 'plugin_menu_callback'),
