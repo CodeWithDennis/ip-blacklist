@@ -1,7 +1,7 @@
 # Blacklist
 **The Blacklist plugin provides the ability to limit website access to a particular set of IP addresses, making it a valuable tool for scenarios where you need to restrict access to a select group of users.**
 
-<img width="1721" alt="Blacklist Plugin" src="https://github.com/CodeWithDennis/ip-blacklist/assets/23448484/21163e06-a147-401e-8fbd-86cfd545d97c">
+<img width="1722" alt="Blacklist Plugin" src="https://github.com/CodeWithDennis/ip-blacklist/assets/23448484/c965abfe-55f7-42c3-8927-83e4122b833c">
 
 ## Features
 - Add and remove IP addresses from a blacklist
